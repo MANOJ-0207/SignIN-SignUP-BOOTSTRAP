@@ -1,12 +1,12 @@
 body {
     height: 100%;
-    background-image: linear-gradient(to bottom right, rgb(188, 0, 221), rgb(253, 240, 255));
+    background-image: linear-gradient(to bottom right, rgb(175, 30, 207), rgb(253, 240, 255));
     background-repeat: no-repeat;
 }
 .main{
-    width: 550px;
-    margin: 10% auto;
-    border-radius: 4px;
+    width: 515px;
+    margin: 15% auto;
+    border-radius: 5px;
     padding: 2.5rem;
     background-color: white;
     text-align: center;
