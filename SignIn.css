@@ -4,11 +4,11 @@ body {
     background-repeat: no-repeat;
 }
 .main{
-    width: 400px;
+    width: 500px;
     height: 620px;
-    margin: 10% auto;
-    border-radius: 4px;
-    padding: 2.5rem;
+    margin: 15% auto;
+    border-radius: 5px;
+    padding: 2.6rem;
     background-color: white;
     text-align: center;
 }
